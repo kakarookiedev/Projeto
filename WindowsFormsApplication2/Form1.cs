@@ -34,10 +34,11 @@ namespace WindowsFormsApplication2
 
         private void btn_calcular_Click(object sender, EventArgs e)
         {
-            double n1 = Convert.ToDouble(txt_n1.Text);
-            double n2 = Convert.ToDouble(txt_n2.Text);
-            double n3 = Convert.ToDouble(txt_n3.Text);
-            double n4 = Convert.ToDouble(txt_n4.Text);
+            double n1 = 0; double n2 = 0; double n3 = 0; double n4 = 0;
+            n1 = Convert.ToDouble(txt_n1.Text);
+            n2 = Convert.ToDouble(txt_n2.Text);
+            n3 = Convert.ToDouble(txt_n3.Text);
+            n4 = Convert.ToDouble(txt_n4.Text);
 
             txt_result.Text = calcular(n1, n2, n3, n4).ToString();
 
@@ -70,5 +71,7 @@ namespace WindowsFormsApplication2
             }
 
         }
+
+
     }
 }
