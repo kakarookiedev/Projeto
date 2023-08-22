@@ -25,9 +25,10 @@ namespace WindowsFormsApplication2
         {
             if (n1 > 10 || n2 > 10 || n3 > 10 || n4 > 10) 
             {
-                MessageBox.Show("Input invalido");
                 limpar();
+                return 0;
             }
+            
             return ((n1 + n2 + n3 + n4) / 4);
         }
 
@@ -40,9 +41,10 @@ namespace WindowsFormsApplication2
             n3 = Convert.ToDouble(txt_n3.Text);
             n4 = Convert.ToDouble(txt_n4.Text);
 
-            txt_result.Text = calcular(n1, n2, n3, n4).ToString();
+             double res = calcular(n1, n2, n3, n4);
+            txt_result.Text = res.ToString();
 
-            MessageBox.Show(calcular(n1, n2, n3, n4).ToString());
+            MessageBox.Show(res > 0 ? res.ToString() : "Erro");
 
             limpar();
             
