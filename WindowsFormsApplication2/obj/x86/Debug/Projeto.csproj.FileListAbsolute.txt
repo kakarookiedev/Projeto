@@ -9,3 +9,14 @@ C:\Users\Kauan\Documents\C#-Facul\Projeto\WindowsFormsApplication2\obj\x86\Debug
 C:\Users\Kauan\Documents\C#-Facul\Projeto\WindowsFormsApplication2\obj\x86\Debug\Projeto.csproj.CoreCompileInputs.cache
 C:\Users\Kauan\Documents\C#-Facul\Projeto\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
 C:\Users\Kauan\Documents\C#-Facul\Projeto\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Users\Kauan\Documents\C#-Facul\Projeto\Projeto\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Kauan\Documents\C#-Facul\Projeto\Projeto\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Kauan\Documents\C#-Facul\Projeto\Projeto\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Kauan\Documents\C#-Facul\Projeto\Projeto\WindowsFormsApplication2\obj\x86\Debug\Projeto.csproj.AssemblyReference.cache
+C:\Users\Kauan\Documents\C#-Facul\Projeto\Projeto\WindowsFormsApplication2\obj\x86\Debug\Projeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kauan\Documents\C#-Facul\Projeto\Projeto\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Kauan\Documents\C#-Facul\Projeto\Projeto\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Kauan\Documents\C#-Facul\Projeto\Projeto\WindowsFormsApplication2\obj\x86\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\Kauan\Documents\C#-Facul\Projeto\Projeto\WindowsFormsApplication2\obj\x86\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Kauan\Documents\C#-Facul\Projeto\Projeto\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\Kauan\Documents\C#-Facul\Projeto\Projeto\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
